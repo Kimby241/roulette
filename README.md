@@ -12,7 +12,7 @@ Pour commencer:
 
 Le jeu commence avec une mise initiale de 200 euros pour le joueur
 
-* Il choisit un nombre entre 0 et 36
+* Il choisit un nombre entre 1 et 36
 * S'il a le même nombre que la roulette sa mise est triplée
 * S'il n'a pas le même nombre mais que son tirage est le même parité il récupère la moitié de sa mise
 * Sinon il perd sa mise
